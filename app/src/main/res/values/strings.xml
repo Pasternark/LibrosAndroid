@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">Libros Android</string>
+
+    <string name="books1">Diseñando apps para móviles</string>
+    <string name="books2">Mobile Application Development, Usability, and Security</string>
+    <string name="books3">How to Build Android Apps with Kotlin</string>
+    <string name="books4">Desarrollo de aplicaciones móviles en Kotlin</string>
+    <string name="books5">Desarrollo de aplicaciones para Android</string>
+    <string name="books6">Android Programming: The Big Nerd Ranch Guide</string>
+    <string name="books7">Crea una app para móvil</string>
+    <string name="books8">Iniciación a Android en Kotlin. Casos prácticos</string>
+    <string name="books9">Curso de Programación. Android con Kotlin</string>
+    <string name="books10">Android Studio Giraffe Essentials - Java Edition</string>
+
+    <string name="autor1">Javier Cuello, José Vittone</string>
+    <string name="autor2">Sougata Mukherjea</string>
+    <string name="autor3">A. Forrester, E. Boudjnah</string>
+    <string name="autor4">Javier Carrasco Navarro</string>
+    <string name="autor5">Joan Ribas Lequerica</string>
+    <string name="autor6">B. Phillips, C. Stewart</string>
+    <string name="autor7">Sarah Guthals</string>
+    <string name="autor8">Arístides Guimerá</string>
+    <string name="autor9">Amtonio Gallego, Miguel Lozano</string>
+    <string name="autor10">Neil Smith</string>
+
+    <string name="year1">(2014)</string>
+    <string name="year2">(2016)</string>
+    <string name="year3">(2023)</string>
+    <string name="year4">(2020)</string>
+    <string name="year5">(2017)</string>
+    <string name="year6">(2019)</string>
+    <string name="year7">(2018)</string>
+    <string name="year8">(2018)</string>
+    <string name="year9">(2021)</string>
+    <string name="year10">(2023)</string>
+
+
+
+</resources>
